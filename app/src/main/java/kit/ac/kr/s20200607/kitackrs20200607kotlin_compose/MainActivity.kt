@@ -38,6 +38,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     Kitackrs20200607kotlin_composeTheme {
-        Greeting("Android")
+        Greeting("안녕하세요")
     }
 }
